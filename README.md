@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osuke-noguchi&theme=flag_india)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osuke-noguchi&theme=flag_india)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osuke-noguchi&theme=flag_india)
+
+
 <!--
 **osuke-noguchi/osuke-noguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
