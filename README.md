@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osuke-noguchi&theme=flag_india)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osuke-noguchi&theme=flag_india)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osuke-noguchi&theme=flag_india)
 
